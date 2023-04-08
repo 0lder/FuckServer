@@ -1,0 +1,37 @@
+{
+
+    "master":{
+        "ip": "",
+        "port":6000
+    },
+    "DBServer":{
+        "name":"DB",
+        "port":6666
+    },
+
+    "servers":{
+        "connector":[
+            {
+                "name":"connector1",
+                "port":4001,
+                "connectorIP":2990
+            }
+        ],
+        "logic":[
+            {
+                "name":"logic1",
+                "port":5001
+            }
+        ]
+
+        
+
+    },
+    "mysql": {
+
+        "ip":"",
+        "port":0,
+        "username":"",
+        "password":""
+    }
+}
