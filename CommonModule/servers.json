@@ -1,0 +1,39 @@
+{
+    "App": {
+        "port": 3000
+    },
+    "servers": {
+        "ConnectorServer": {
+            "port": 2990,
+            "workerCount": 1
+        },
+        "LogicServer":{
+            "workerCount":1
+        },
+        "MasterServer": {
+            "workerCount": 1
+        },
+        "DBServer":{
+            "workerCount":1
+        }
+    },
+
+    "Master":{
+        "host":"127.0.0.1",
+        "port":6000
+    },
+
+    "redis": {
+        "host": "1.14.74.252",
+        "port": 6379
+
+    },
+    "mysql": {
+        "host": "1.14.74.252",
+        "port": 3306,
+        "username": "gamedb",
+        "password": "Srrj5606",
+        "db": "gamedb"
+        
+    }
+}

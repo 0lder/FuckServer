@@ -1,0 +1,41 @@
+C:\Users\ifun005\Desktop\test
+C:\Users\ifun005\Desktop\test
+C:\Users\ifun005\Desktop\test
+C:\Users\ifun005\Desktop\test
+C:\Users\ifun005\Desktop\test
+C:\Users\ifun005\Desktop\test
+[0m19:48:09[info] service_czpMN1bMaX register succcess
+[0m19:48:14[debug] server:[czpMN1bMaX]probe succcess
+[0m19:48:19[debug] server:[czpMN1bMaX]probe succcess
+[0m19:48:22[info] service_sAPA9CRT9r register succcess
+[0m19:48:24[debug] server:[czpMN1bMaX]probe succcess
+[0m19:48:27[debug] server:[sAPA9CRT9r]probe succcess
+[0m19:48:29[debug] server:[czpMN1bMaX]probe succcess
+[0m19:48:32[debug] server:[sAPA9CRT9r]probe succcess
+[0m19:48:34[debug] server:[czpMN1bMaX]probe succcess
+[0m19:48:37[debug] server:[sAPA9CRT9r]probe succcess
+[0m19:48:39[debug] server:[czpMN1bMaX]probe succcess
+[0m19:48:42[debug] server:[sAPA9CRT9r]probe succcess
+[0m19:48:44[debug] server:[czpMN1bMaX]probe succcess
+[0m19:48:47[debug] server:[sAPA9CRT9r]probe succcess
+[0m19:48:49[debug] server:[czpMN1bMaX]probe succcess
+[0m19:48:52[debug] server:[sAPA9CRT9r]probe succcess
+[0m19:48:54[debug] server:[czpMN1bMaX]probe succcess
+[0m19:48:57[debug] server:[sAPA9CRT9r]probe succcess
+[0m19:48:59[debug] server:[czpMN1bMaX]probe succcess
+[0m19:49:02[error] send rpc error Error: connect ECONNREFUSED 127.0.0.1:1002
+[0m19:49:04[error] send rpc error Error: connect ECONNREFUSED 127.0.0.1:1002
+[0m19:49:07[info] service_BQeXvpX3dw register succcess
+[0m19:49:12[debug] server:[BQeXvpX3dw]probe succcess
+[0m19:49:17[debug] server:[BQeXvpX3dw]probe succcess
+[0m19:49:21[info] service_xEqAPuA2rd register succcess
+[0m19:49:22[debug] server:[BQeXvpX3dw]probe succcess
+[0m19:49:26[debug] server:[xEqAPuA2rd]probe succcess
+[0m19:49:27[debug] server:[BQeXvpX3dw]probe succcess
+[0m19:49:31[debug] server:[xEqAPuA2rd]probe succcess
+[0m19:49:32[debug] server:[BQeXvpX3dw]probe succcess
+[0m19:49:36[debug] server:[xEqAPuA2rd]probe succcess
+[0m19:49:37[debug] server:[BQeXvpX3dw]probe succcess
+[0m19:49:41[debug] server:[xEqAPuA2rd]probe succcess
+[0m19:49:42[debug] server:[BQeXvpX3dw]probe succcess
+[0m19:49:46[error] send rpc error Error: connect ECONNREFUSED 127.0.0.1:5000
