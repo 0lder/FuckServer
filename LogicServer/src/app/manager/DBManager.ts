@@ -45,10 +45,10 @@ export class DBManager {
 
         const appDataSource = new DataSource({
             type: "mysql",
-            host: "110.42.196.203",
+            host: "",
             port: 5700,
-            username: "gameindier",
-            password: "dzZJY4mmMij45c3y",
+            username: "",
+            password: "",
             database: "gameindier",
             entities: [User,Project,Invite,Chat],
             debug:true
